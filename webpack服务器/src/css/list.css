@@ -1,0 +1,8 @@
+li {
+    list-style: none;
+}
+body {
+    background: url("../assets/logo_small.png") ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
